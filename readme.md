@@ -20,3 +20,5 @@
 // take down local database
 // docker ps
 // docker kill container_id
+
+// we can write many commands in docker like for kafka, redis, postgres
