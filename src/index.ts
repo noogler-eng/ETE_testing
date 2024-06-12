@@ -4,7 +4,7 @@ import { prismaClient } from "./db";
 export const app = express();
 app.use(express.json());
 
-app.get("/", async(req, res)=>{
+app.get("/", (req, res)=>{
     res.json({
         msg: "server is running"
     })
