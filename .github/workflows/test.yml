@@ -27,4 +27,3 @@ jobs:
 
     - name: Run integration script
       run: npm run test:integration
-Copy
