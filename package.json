@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "vitest",
-    "test: in": ""
+    "test:integration": "./scripts/run-in-test.sh"
   },
   "author": "",
   "license": "ISC",
